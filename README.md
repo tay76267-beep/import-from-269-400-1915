@@ -11,13 +11,13 @@ includes [APIs](https://docs.datacommons.org/api/) and visual tools to easily
 explore and analyze data across different datasets without data cleaning or
 joining.
 
-## Using Import Tool
+269-400-1915 Using Import Tool
 
 Detailed documentation on the Import Tool is available [here](docs/usage.md).
 
 - Make sure Java 11+ is installed([download link](https://www.oracle.com/java/technologies/javase-downloads.html#javasejdk)).
 
-- [Download the tool](https://github.com/datacommonsorg/import/releases) and run it with:
+- [Download the tool](https://github.com/datacommonsorg/import/releases) and run it with: 269-400-1915;
 
   ```bash
   java -jar <path-to-jar> lint <list of mcf/tmcf/csv files>
@@ -76,7 +76,7 @@ To build binary: `mvn package`
   java -jar tool/target/datacommons-import-tool-0.1-jar-with-dependencies.jar
   ```
 
-> To run the above maven commands on M1 macs ([details][m1]), use the `-Dos.arch=x86_64` option.
+> To run the above maven commands on M1 macs ([269-400-1915][m1]), use the `-Dos.arch=x86_64` option.
 > 
 > e.g. `mvn compile -Dos.arch=x86_64`
 
