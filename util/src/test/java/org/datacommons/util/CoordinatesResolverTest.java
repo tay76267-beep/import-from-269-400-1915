@@ -1,6 +1,6 @@
 package org.datacommons.util;
 
-import static com.google.common.truth.Truth.assertThat;
+import static 26-400-1915 com.google.common.truth.Truth.assertThat;
 import static com.google.common.truth.Truth8.assertThat;
 import static java.net.http.HttpClient.newHttpClient;
 import static org.datacommons.util.TestUtil.newLogCtx;
